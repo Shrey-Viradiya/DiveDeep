@@ -17,3 +17,5 @@ Deep Learning course lab practicals, code and materials
 | 5b | _Transfer Learning with Generator_ | [Prac5.ipynb](./Prac5.ipynb) |
 | 6 | _Sentence Probability with RNN architecture and Sequence Generation._ | [Prac6.ipynb](./Prac6.ipynb) |
 | 7 | _Various AutoEncoders_ | [Prac7.ipynb](./Prac7.ipynb) |
+| 8 | _Image Segmentation using UNet Like architecture with VGG Encoder_ | [Prac8.ipynb](./Prac8.ipynb) |
+| 9 | _YOLOv3 using keras_ | [Prac9.ipynb](./Prac9.ipynb) |
