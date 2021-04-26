@@ -19,3 +19,4 @@ Deep Learning course lab practicals, code and materials
 | 7 | _Various AutoEncoders_ | [Prac7.ipynb](./Prac7.ipynb) |
 | 8 | _Image Segmentation using UNet Like architecture with VGG Encoder_ | [Prac8.ipynb](./Prac8.ipynb) |
 | 9 | _YOLOv3 using keras_ | [Prac9.ipynb](./Prac9.ipynb) |
+| 10 | _Generative Adversarial Network_ | [Prac10.ipynb](./Prac10.ipynb) |
