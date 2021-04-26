@@ -14,7 +14,7 @@ Deep Learning course lab practicals, code and materials
 | 3 | _Conventional Feed Forward Neural Network on MNIST. Write code using (a) Sequential Class (b) Model Class API_ | [Prac3.ipynb](./Prac3.ipynb) |
 | 4 | _Convolutional Neural Network on MNIST & Fashion MNIST. Write code using (a) Sequential Class (b) Model Class API._ | [Prac4.ipynb](./Prac4.ipynb) |
 | 5 | _Transfer Learning Without Generator_ | [Prac5.ipynb](./Prac5.ipynb) |
-| 5b | _Transfer Learning with Generator_ | [Prac5.ipynb](./Prac5.ipynb) |
+| 5b | _Transfer Learning with Generator_ | [Prac5b.ipynb](./Prac5b.ipynb) |
 | 6 | _Sentence Probability with RNN architecture and Sequence Generation._ | [Prac6.ipynb](./Prac6.ipynb) |
 | 7 | _Various AutoEncoders_ | [Prac7.ipynb](./Prac7.ipynb) |
 | 8 | _Image Segmentation using UNet Like architecture with VGG Encoder_ | [Prac8.ipynb](./Prac8.ipynb) |
